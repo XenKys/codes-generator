@@ -1,12 +1,12 @@
 {
   "name": "codes-generator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An NPM package for generating random codes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Frooollo/codes-generator.git"
+    "url": "git+https://github.com/XenKys/codes-generator.git"
   },
   "keywords": [
     "codes-generator",
@@ -24,10 +24,10 @@
     "random-number-generator",
     "random-symbol-generator"
   ],
-  "author": "Frooollo",
+  "author": "XenKys",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Frooollo/codes-generator/issues"
+    "url": "https://github.com/XenKys/codes-generator/issues"
   },
-  "homepage": "https://github.com/Frooollo/codes-generator#readme"
+  "homepage": "https://github.com/XenKys/codes-generator#readme"
 }
